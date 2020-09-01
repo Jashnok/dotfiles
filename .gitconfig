@@ -1,0 +1,13 @@
+[user]
+  username = Jashnok
+	name = Joshua Redmann
+	email = joshua.redmann@gmail.com
+[core]
+  editor = vim
+  excludesfile = ~/.dotfiles/.gitignore
+[web]
+	browser = google-chrome
+[color]
+	ui = true
+[alias]
+	staged = diff --cached
