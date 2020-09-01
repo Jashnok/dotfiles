@@ -30,7 +30,6 @@ msjsdiag.debugger-for-chrome
 octref.vetur
 redhat.vscode-yaml
 robbowen.synthwave-vscode
-shan.code-settings-sync
 shd101wyy.markdown-preview-enhanced
 sophisticode.php-formatter
 vscode-icons-team.vscode-icons
