@@ -9,5 +9,8 @@
 	browser = google-chrome
 [color]
 	ui = true
+[github]
+	user = jashnok
+	token = token
 [alias]
 	staged = diff --cached
