@@ -1,5 +1,5 @@
 # dotfiles
-##Installation
+## Installation
 ```bash
 git clone --recursive https://github.com/jashnok/dotfiles.git &&\
 cd dotfiles &&\
